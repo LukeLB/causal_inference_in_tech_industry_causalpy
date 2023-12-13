@@ -12,4 +12,4 @@ The way I see it so far is:
 - Ch 8 - Introduces the differnce in difference model type which can be implemented in CausalPy.
 - Chp 9 - Dives into synthetic control which can be rewritten with CausalPy.
 - Ch 10 - Applies geo and switch back experiments, there is an example of geo experiments in CausalPy but not sure about switch back experiments?
-- Ch 11 - Final chapter looks at instrumental variables, there are docs on this in causalpy but looking at the chapeter will likely be a mix of CausalPy/PyMC.
+- Ch 11 - Final chapter looks at instrumental variables, there are docs on this in causalpy but looking at the chapetr it will likely be a mix of CausalPy/PyMC.
